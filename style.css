@@ -1,0 +1,15 @@
+.bg-hero {
+    background: linear-gradient(135deg, #1a1a2e 0% #16213e 50% #0f3460 100%);
+    padding: 80px 0;
+}
+
+.bg-hero h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 4);
+}
+
+.bg-hero lead {
+    font-size: 1.3rem;
+    opacity: 0,9;
+}
